@@ -1,4 +1,4 @@
-# python_training
+# Python Training Environment
 
 This repository was created to keep track of all the python exercises I've conducted to improve my python skills.
 
