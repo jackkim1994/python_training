@@ -1,6 +1,3 @@
-Got it! Here is the entire content formatted fully as a **README.md** file exactly as you asked:
-
-````markdown
 # reddytics
 
 A simple Python SDK to analyze Reddit data, such as fetching top posts and summarizing subreddit statistics.
