@@ -107,7 +107,3 @@ pytest
 ```
 
 ---
-
-## License
-
-MIT License © Your Name
