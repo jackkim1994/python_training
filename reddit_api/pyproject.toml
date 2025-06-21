@@ -7,3 +7,7 @@ select = ["E", "F", "I"]
 
 [tool.pytest.ini_options]
 python_files = "test_*.py"
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
